@@ -1,13 +1,25 @@
+/* Start Global Styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* End Global Styles */
 
-body {
-    background-color: #d9dcd6;
+/* Utility CLasses */
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* End Utility Classes */
+
+
+/* Start Header Styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +52,6 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
- 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 14px;
-}
-
 .hero {
     height: 600px;
     width: 100%;
@@ -58,16 +60,28 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
+ /* End Header Styles */
+ /* Anchor Style */
+ a {
+    color: #ffffff;
+    text-decoration: none;
 }
+/* End Anchor Style */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
+/* Body Styles */
+body {
+    background-color: #d9dcd6;
 }
+/* End Body Styles */
+
+/* Paragraph Font Size */
+p {
+    font-size: 14px;
+}
+/* End Paragraph Font Size */
+
+
+/* Start Services Provided Style */
 
 .content {
     width: 75%;
@@ -93,7 +107,9 @@ p {
 .content img {
     max-height: 200px;
 }
+/* End Services Provided Style */
 
+/* Start Benefits Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +137,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* End Benefits Style */
+/* Start Footer Style */
 .footer {
     padding: 30px;
     clear: both;
@@ -132,3 +149,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End Footer Style */
