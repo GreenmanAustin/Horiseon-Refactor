@@ -10,6 +10,10 @@ The specific refactoring of the code included, without limitation, adding title 
 
 Horiseon's refactored website has been deloyed and can be accessed here: https://greenmanaustin.github.io/Horiseon-Refactor/
 
+Here are a couple of screenshots of the live website:
+![This is the top of the website](./assets/images/screenshot1.png)
+![This is the bottom of the website](./assets/images/screenshot2.png)
+
 ## Skills Learned
 
 The process of refactoring is best accomplished by first taking the requisite time to learn the functionality of the existing code.  After that, and before making any changes to the code, outlining on paper all the changes that need to be made.  Finally, when making code changes, each change needs to be tested before proceeding to the next change.  There is a high risk of breaking the code with any given change so each change needs to be completed, including repairing any breaks in functionality, before proceeding to the next change.  Otherwise it may be difficult to ascertain what code change caused the break in functionality.  
