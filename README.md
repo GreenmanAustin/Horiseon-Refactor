@@ -10,9 +10,10 @@ The specific refactoring of the code included, without limitation, adding title 
 
 Horiseon's refactored website has been deloyed and can be accessed here: https://greenmanaustin.github.io/Horiseon-Refactor/
 
-Here are a couple of screenshots of the live website:
+Here are three screenshots of the live website which have been roughly stitched together to give an approximation of how the website appears:
 ![This is the top of the website](./assets/images/screenshot1.png)
-![This is the bottom of the website](./assets/images/screenshot2.png)
+![This is the middle of the website](./assets/images/screenshot2.png)
+![This is the bottom of the website](./assets/images/screenshot3.png)
 
 ## Skills Learned
 
